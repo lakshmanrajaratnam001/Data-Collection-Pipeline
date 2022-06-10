@@ -1,0 +1,11 @@
+beautifulsoup4==4.11.1
+boto3==1.21.44
+chromedriver_autoinstaller==0.3.1
+pandas==1.4.2
+requests==2.27.1
+selenium==3.141.0
+SQLAlchemy==1.4.35
+webdriver_manager==3.5.3
+psycopg2
+s3fs
+lit
